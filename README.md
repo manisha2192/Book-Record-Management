@@ -1,7 +1,7 @@
 # Book-Record-Management
 A Django Project which add ,update, search, delete a book from the database.
 
-# View Book Record
+## View Book Record
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/71366732/125596382-f52d64d0-4327-454a-ab4d-3b9bf3643e7e.png)
 
