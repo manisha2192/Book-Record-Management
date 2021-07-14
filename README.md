@@ -1,5 +1,6 @@
 # Book-Record-Management
 A Django Project which add ,update, search, delete a book from the database.
+This is some outputs screenshot of this projects
 
 ## View Book Records
 
